@@ -594,7 +594,7 @@
 				CURRENT_PROJECT_VERSION = 666;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 6.6.6;
 				PRODUCT_BUNDLE_IDENTIFIER = "ge-nie-inc.SwiftyPickerPopoverDemo";
@@ -610,7 +610,7 @@
 				CURRENT_PROJECT_VERSION = 666;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Demo/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 6.6.6;
 				PRODUCT_BUNDLE_IDENTIFIER = "ge-nie-inc.SwiftyPickerPopoverDemo";
